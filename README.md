@@ -2,6 +2,16 @@
 
 这是一个用于保存 C++ 入门学习和练习代码的仓库，当前包含数组排序、字符串处理等基础示例。
 
+## About This Repository
+
+The initial goal of this repository is to record my growth as I learn to write code, and perhaps, one day, become a great programmer.
+
+It may be a little amusing, since I'm only a freshman in my first year of college. But that's exactly the point: this is where my journey begins.
+
+If I could introduce this little repository in just one sentence, it would be:
+
+> **Remember the scenery you saw when you were just a little bird, and how far you've flown since then—whatever you may become.**
+
 ## 文件说明
 
 | 文件 | 内容 |
